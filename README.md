@@ -25,7 +25,7 @@ pip install flask Flask-PyMongo Flask-WTF
 python -m pip install "pymongo[srv]
 ```
 
-5. Setup the mongoDB cluster
+4. Setup the mongoDB cluster
 
 ```
 #python run.py 

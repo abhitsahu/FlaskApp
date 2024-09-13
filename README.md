@@ -9,7 +9,7 @@
 python -m venv venv
 
 
-3. Activate the virtual environment
+2. Activate the virtual environment
 
 ```bash
 
@@ -17,7 +17,7 @@ source venv/bin/activate
 
 ```
 
-4. Install all Assignment dependencies
+3. Install all Assignment dependencies
 
 ```bash
 pip install flask Flask-PyMongo Flask-WTF
